@@ -1,0 +1,30 @@
+.topstickey {
+    background-color: skyblue;
+    margin:0;
+    padding:0;
+    height: 70;
+    position: sticky;
+    top: 0;
+    order: 1;
+}
+
+body {
+    margin:0;
+    padding:0;
+    background-color: cornflowerblue;
+}
+
+.footers {
+    background-color: rgb(80, 80, 80);
+    margin:0;
+    padding:0;
+    height: auto;
+    color: white;
+}
+
+.tt {
+    display: inline-block;
+    margin: 5px 0 0 0;
+    padding: 10px;
+}
+
